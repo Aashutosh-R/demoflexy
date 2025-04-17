@@ -123,7 +123,7 @@ The Pro Version of the **Flexy NextJs Dashboard** comes packed with essential fe
   <a href="https://flexy-next-js-dashboard.vercel.app/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
   </a>
-  <a href="https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=376" target="_blank">
+  <a href="https://www.wrappixel.com/templates/flexy-nextjs-dashboard-material-ui/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
   </a>
 </div>

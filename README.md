@@ -186,17 +186,17 @@ The **Free Version** of the **Flexy NextJs Dashboard** provides a solid set of f
 <tr>
 <td>
   <a href="https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Flexy-reactjs.jpg" alt="" style="max-width:140px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Flexy-reactjs.jpg" alt="flexy-react-admin-template" style="max-width:140px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-bootstrap-admin-wpn.jpg" alt="" style="max-width:140px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-bootstrap-admin-wpn.jpg" alt="flexy-bootstrap-admin-template" style="max-width:140px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/flexy-nuxt-js-vuetify-admin-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/11/Flexy_Nuxtjs_preview.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/11/Flexy_Nuxtjs_preview.jpg" alt="flexy-nuxt-admin-template" style="max-width:150px;">
   </a>
 </td>
 </td>  
@@ -216,12 +216,12 @@ The **Free Version** of the **Flexy NextJs Dashboard** provides a solid set of f
 <tr>
 <td>
   <a href="https://www.wrappixel.com/templates/flexy-material-angular-admin/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-angular-material-admin-wpn.jpg" alt="" style="max-width:140px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-angular-material-admin-wpn.jpg" alt="flexy-angular-admin-template" style="max-width:140px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="flexy-vue-admin-template" style="max-width:150px;">
   </a>
 </td>  
 </tr>

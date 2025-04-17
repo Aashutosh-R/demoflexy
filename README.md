@@ -166,75 +166,75 @@ The **Free Version** of the **Flexy NextJs Dashboard** provides a solid set of f
 ## 🗂️ Other versions
 
 <table>
-<thead>
-   <tr>
-      <th> 
-         <span style="font-size: 16px;">All Access Pass</span>
-      </th>
-      <th> 
-         <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
-         <span style="font-size: 16px;">Bootstrap</span>
-      </th>
-      <th> 
-         <img src="https://skillicons.dev/icons?i=react" height="20" alt="React templates" style="margin-right: 8px;">
-         <span style="font-size: 16px;">React</span>
-      </th>
-   </tr>
-</thead>
-<tbody>
-   <tr>
-      <td>
-         <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
-          <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="materialM-bootstrap-admin-template" style="max-width:140px;">
-         </a>
-      </td>
-      <td>
-         <a href="https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/?ref=376" width="150px">
-            <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-bootstrap-admin-wpn.jpg" alt="flexy-bootstrap-admin-template" style="max-width:140px;">
-         </a>
-      </td>
-      <td>
-         <a href="https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=376" width="150px">
-            <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Flexy-reactjs.jpg" alt="flexy-react-admin-template" style="max-width:140px;">
-         </a>
-      </td>
-   </tr>
-</tbody>
-<thead>   
-   <tr>
-      <th>
-         <img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular templates" style="margin-right: 8px;">
-         <span>Angular</span>
-      </th>
-      <th>
-         <img src="https://skillicons.dev/icons?i=vue" height="20" alt="Vue templates" style="margin-right: 8px;">
-         <span>Vue</span>
-      </th>
-      <th>
-         <img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Nuxt templates" style="margin-right: 8px;">
-         <span>Nuxt</span>
-      </th>
-   </tr>
-</thead>
-<tbody>
-   <tr>
-      <td>
-        <a href="https://www.wrappixel.com/templates/flexy-material-angular-admin/?ref=376" width="150px">
-          <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-angular-material-admin-wpn.jpg" alt="flexy-angular-admin-template" style="max-width:140px;">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=376" width="150px">
-          <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="flexy-vue-admin-template" style="max-width:150px;">
-        </a>
-      </td>
-      <td>
-         <a href="https://www.wrappixel.com/templates/flexy-nuxt-js-vuetify-admin-template/?ref=376" width="150px">
-            <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/11/Flexy_Nuxtjs_preview.jpg" alt="flexy-nuxt-admin-template" style="max-width:150px;">
-         </a>
-      </td> 
-   </tr>
-</tbody>
+   <thead>
+      <tr>
+         <th> 
+            <span style="font-size: 16px;">All Access Pass</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">Bootstrap</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=react" height="20" alt="React templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">React</span>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
+             <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="materialM-bootstrap-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-bootstrap-admin-wpn.jpg" alt="flexy-bootstrap-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Flexy-reactjs.jpg" alt="flexy-react-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+      </tr>
+   </tbody>
+   <thead>   
+      <tr>
+         <th>
+            <img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular templates" style="margin-right: 8px;">
+            <span>Angular</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=vue" height="20" alt="Vue templates" style="margin-right: 8px;">
+            <span>Vue</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Nuxt templates" style="margin-right: 8px;">
+            <span>Nuxt</span>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>
+           <a href="https://www.wrappixel.com/templates/flexy-material-angular-admin/?ref=376" width="150px">
+             <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-angular-material-admin-wpn.jpg" alt="flexy-angular-admin-template" style="max-width:140px;">
+           </a>
+         </td>
+         <td>
+           <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=376" width="150px">
+             <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="flexy-vue-admin-template" style="max-width:150px;">
+           </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/flexy-nuxt-js-vuetify-admin-template/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/11/Flexy_Nuxtjs_preview.jpg" alt="flexy-nuxt-admin-template" style="max-width:150px;">
+            </a>
+         </td> 
+      </tr>
+   </tbody>
 </table>
 
 ---
